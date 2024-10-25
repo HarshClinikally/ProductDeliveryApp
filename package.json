@@ -1,0 +1,20 @@
+{
+  "name": "product-delivery-app",
+  "version": "1.0.0",
+  "description": "A product delivery application built with React",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": ["product", "delivery", "react", "app"],
+  "author": "Your Name",
+  "license": "ISC"
+}
